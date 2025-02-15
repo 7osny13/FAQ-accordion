@@ -20,7 +20,7 @@ A responsive and accessible FAQ accordion component built with HTML, CSS, and Ja
 
 ## Live Demo
 
-[View Live Site](#) <!-- Add your live site URL here -->
+[View Live Site](https://7osny13.github.io/FAQ-accordion/) <!-- Add your live site URL here -->
 
 
 ## Accessibility Features
